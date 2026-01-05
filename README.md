@@ -1,6 +1,6 @@
 # Energy Emissions Lakehouse (PostgreSQL + Power BI)
 
-A small end-to-end data engineering project that simulates an energy & emissions dataset, processes it through a Bronze → Silver → Gold pipeline, loads a star schema into PostgreSQL, and visualizes key KPIs in Power BI.
+A small end-to-end data engineering project that simulates an energy & emissions dataset, processes it through a Bronze → Silver → Gold pipeline, loads a star schema into PostgreSQL and visualizes key KPIs in Power BI.
 
 ## Architecture
 - **Bronze:** raw generated dataset (CSV)
