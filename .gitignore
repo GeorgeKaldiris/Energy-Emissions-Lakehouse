@@ -11,6 +11,8 @@ venv/
 # VS Code
 .vscode/
 
-# Power BI (optional)
+# Power BI 
 # *.pbix
+
+*.pbix
 
