@@ -1,0 +1,16 @@
+# Ignore all project data
+Data/
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Power BI (optional)
+# *.pbix
+

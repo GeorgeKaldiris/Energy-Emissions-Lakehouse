@@ -1,0 +1,10 @@
+
+services:
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: de_user
+      POSTGRES_PASSWORD: de_pass
+      POSTGRES_DB: lakehouse
+    ports:
+      - "5432:5432"
